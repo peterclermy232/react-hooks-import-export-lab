@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./NavBar";
+import Navbar from "./Navar";
 import Home from "./Home";
 import About from "./About";
 

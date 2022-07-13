@@ -1,6 +1,5 @@
 import React from "react";
-import { username, city } from "../data/user"
-conso
+import {}
 function Home() {
   return (
     <div id="home">

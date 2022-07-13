@@ -1,7 +1,6 @@
 import React from "react";
-import { username, city } from "../data/user"
-conso
-function Home() {
+import { username, city} from "../data/user"
+function Home({}) {
   return (
     <div id="home">
       <h1>

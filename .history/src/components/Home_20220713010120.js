@@ -1,6 +1,6 @@
 import React from "react";
 import { username, city } from "../data/user"
-conso
+cons
 function Home() {
   return (
     <div id="home">
